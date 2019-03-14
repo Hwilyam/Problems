@@ -7,7 +7,6 @@ int main()
 	int sideline;
 	int premium;
 	int generalad;
-	float totalsale;
 
 	cout<<" Ticket             Prices:|" << "Number of Tickets sold:"<<endl;
 	cout<<" Box:               "<<250<<"    |";
