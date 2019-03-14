@@ -1,0 +1,20 @@
+#include <iostream>
+#include <conio.h>
+using namespace std;
+int main()
+{
+	float mass;
+	float density;
+	float volume;
+
+	cout<<" Mass:      ";
+	cin>>mass;
+	cout<<" Density:   ";
+	cin>>density;
+
+	cout<<"Volume:     ";<< 1/4 * (mass/density); 
+
+	_getch();
+	return 0;
+
+}
