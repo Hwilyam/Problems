@@ -12,7 +12,7 @@ int main()
 	cout<<" Density:   ";
 	cin>>density;
 
-	cout<<"Volume:     ";<< 1/4 * (mass/density); 
+	cout<<"Volume:     "<< 1/4 * (mass/density); 
 
 	_getch();
 	return 0;
