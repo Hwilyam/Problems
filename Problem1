@@ -18,6 +18,7 @@ int main()
 	cin>>premium;
 	cout<<" General Admission: "<<25<<"     |";
 	cin>>generalad;
+	
 	cout<<"---------------------------------------------------------------- "<<endl;
 	cout<<"                    Sale:"<<endl;
 	cout<<" Box:               "<<box * 250<<endl;
